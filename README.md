@@ -2,14 +2,14 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h4>💼 Software Developer at <a href="https://www.ginesys.in/">Ginesys</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
 
-## Things I'm working with :computer:
+## :computer: Currently working with 
 <p>
   <img src="icons/cSharp.svg" alt="cSharp" style="vertical-align:top; margin:4px; width:4px; height:4px">
   <img src="icons/dotnet.svg" alt="dotnet" style="vertical-align:top; margin:4px; width:4px; height:4px">
   <img src="icons/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px; width:4px; height:4px">
 </p>
 
-## Things I :heart: to experiment with
+## :thumbsup: Things I :heart: to experiment with
 <p>
   <img src="icons/html5.svg" alt="html" style="vertical-align:top; margin:4px; width:4px; height:4px">
   <img src="icons/css.svg" alt="css" style="vertical-align:top; margin:4px; width:4px; height:4px">
