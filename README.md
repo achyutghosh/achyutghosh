@@ -1,7 +1,6 @@
 # Hey :wave:, I'm Achyut Ghosh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p>:office:<em> Software Developer at <a href="https://www.ginesys.in/">Ginesys</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h4>💼 Software Developer at <a href="https://www.ginesys.in/">Ginesys</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
 
 ## Things I'm working with :computer:
 <p>
