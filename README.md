@@ -25,4 +25,5 @@
 ## Want to talk ?
 <p align="center">
   <img src="https://github.com/achyutghosh/achyutghosh/blob/master/social/facebook.png" alt="html" style="vertical-align:top; margin:4px; width:4px; height:4px">
+  <img src="https://github.com/achyutghosh/achyutghosh/blob/master/social/instagram.png" alt="html" style="vertical-align:top; margin:4px; width:4px; height:4px">
 </p>
