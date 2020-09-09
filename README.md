@@ -12,21 +12,20 @@
 
 ## :computer: Currently working with 
 <p>
-  <img src="https://github.com/achyutghosh/achyutghosh/blob/master/icons/cSharp.svg" alt="cSharp" style="vertical-align:top; margin:4px; width:4px; height:4px">
-  <img src="https://github.com/achyutghosh/achyutghosh/blob/master/icons/dotnet.svg" alt="dotnet" style="vertical-align:top; margin:4px; width:4px; height:4px">
-  <img src="https://github.com/achyutghosh/achyutghosh/blob/master/icons/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px; width:4px; height:4px">
-  <img src="https://github.com/achyutghosh/achyutghosh/blob/master/icons/sencha.svg" alt="sencha" style="vertical-align:top; margin:4px; width:4px; height:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="csharp" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="45" height="45" />
 </p>
 <br>
 
 ## :thumbsup: Things I :heart: to experiment with
 <p>
-  <img src="https://github.com/achyutghosh/achyutghosh/blob/master/icons/html5.svg" alt="html" style="vertical-align:top; margin:4px; width:4px; height:4px">
-  <img src="https://github.com/achyutghosh/achyutghosh/blob/master/icons/css.svg" alt="css" style="vertical-align:top; margin:4px; width:4px; height:4px">
-  <img src="https://github.com/achyutghosh/achyutghosh/blob/master/icons/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px; width:4px; height:4px">
-  <img src="https://github.com/achyutghosh/achyutghosh/blob/master/icons/reactjs.svg" alt="react" style="vertical-align:top; margin:4px; width:4px; height:4px">
-  <img src="https://github.com/achyutghosh/achyutghosh/blob/master/icons/angular.svg" alt="angular" style="vertical-align:top; margin:4px; width:4px; height:4px">
-  <img src="https://github.com/achyutghosh/achyutghosh/blob/master/icons/git.svg" alt="git" style="vertical-align:top; margin:4px; width:4px; height:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html" width="45" height="45" >
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css" width="45" height="45" >
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" >
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45" >
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="45" height="45" >
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="45" height="45" >
 </p>
 <br>
 
