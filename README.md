@@ -10,8 +10,6 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/achyut06)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/me_achyut/)
 
-<br>
-
 ## :computer: Currently working with 
 <p>
   <img src="https://github.com/achyutghosh/achyutghosh/blob/master/icons/cSharp.svg" alt="cSharp" style="vertical-align:top; margin:4px; width:4px; height:4px">
