@@ -1,6 +1,6 @@
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm <a href="https://achyutghosh.github.io/">Achyut</a> ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<h4>:fire: Passionate programmer having experience of working for ERP softwares.</h4>
+<!--<h4>:fire: Passionate programmer having experience of working for ERP softwares.</h4>-->
 <h3>💼 Software Developer at <a href="https://www.ginesys.in/">Ginesys</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 ## :envelope: Want to talk ?
