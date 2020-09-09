@@ -1,7 +1,7 @@
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm <a href="https://achyutghosh.github.io/">Achyut</a> ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img align='right' src="https://github.com/achyutghosh/achyutghosh/blob/master/gifs/people-at-work.gif" width="300">
 <h4>:fire: Passionate programmer having experience of working for ERP softwares.</h4>
-<h3>💼 Software Developer at <a href="https://www.ginesys.in/">Ginesys</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3>💼 Software Developer at <a href="https://www.ginesys.in/">Ginesys</a></h3>
 
 ## :envelope: Want to talk ?
 [![Website Badge](https://img.shields.io/badge/Website-0A79DF?style=flat-square&logo=google-chrome&logoColor=white)](https://achyutghosh.github.io/)
@@ -29,3 +29,5 @@
   <img src="https://github.com/achyutghosh/achyutghosh/blob/master/icons/git.svg" alt="git" style="vertical-align:top; margin:4px; width:4px; height:4px">
 </p>
 <br>
+
+<h4 align='center'>Many things are cooking inside, stay tuned...<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
