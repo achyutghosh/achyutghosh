@@ -23,9 +23,12 @@
 <br>
 
 ## :envelope: Want to talk ?
-<p align="left">
+<!-- <p align="left">
   <a href="https://achyutghosh.github.io/"> Website
   <a href="https://www.facebook.com/achyut06"> Facebook
   <a href="https://www.instagram.com/me_achyut/"> Instagram
   <a href="https://www.linkedin.com/in/achyutghosh24/"> Linkedin
-</p>
+</p> -->
+    
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achyutghosh24/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://achyutghosh.github.io/)
