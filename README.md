@@ -1,6 +1,6 @@
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm <a href="https://achyutghosh.github.io/">Achyut</a> ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img align='right' src="https://github.com/achyutghosh/achyutghosh/blob/master/gifs/people-at-work.gif" width="300">
-<h4>:fire: Passionate programmer having experience of working for ERP softwares.</h4>
+<h4>:fire: Passionate programmer | 🚀 Experience in ERP software.</h4>
 <h3>💼 Software Developer at <a href="https://www.ginesys.in/">Ginesys</a></h3>
 
 ## :envelope: Want to talk ?
@@ -11,7 +11,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/me_achyut/)
 
 ## :computer: Currently working with 
-<p>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="csharp" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="45" height="45" />
@@ -20,7 +20,7 @@
 <br>
 
 ## :thumbsup: Things I :heart: to experiment with
-<p>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html" width="45" height="45" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css" width="45" height="45" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" >
