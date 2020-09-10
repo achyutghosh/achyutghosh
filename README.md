@@ -31,3 +31,19 @@
 <br>
 
 <h4 align='center'>Many things are cooking inside, stay tuned...<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
+
+## :trophy: My Github Stats:
+
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
+-->
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=achyutghosh&count_private=true&show_icons=true&theme=default">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=achyutghosh&count_private=true&show_icons=true&theme=default" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=achyutghosh&hide=php&theme=default">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=achyutghosh&hide=php&theme=default" />
+</a>
+</div>
+
