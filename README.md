@@ -30,7 +30,7 @@
 </p>
 <br>
 
-## :trophy: My Github Stats:
+## :trophy: My Github Report:
 
 <!--
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
@@ -45,4 +45,4 @@
 </a>
 </div>
 
-<h4 align='center'>Many things are cooking inside, stay tuned...<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
+<!--<h4 align='center'>Many things are cooking inside, stay tuned...<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>-->
