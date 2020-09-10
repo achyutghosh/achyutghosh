@@ -30,8 +30,6 @@
 </p>
 <br>
 
-<h4 align='center'>Many things are cooking inside, stay tuned...<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
-
 ## :trophy: My Github Stats:
 
 <!--
@@ -47,3 +45,4 @@
 </a>
 </div>
 
+<h4 align='center'>Many things are cooking inside, stay tuned...<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
