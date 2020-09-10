@@ -42,7 +42,7 @@
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=achyutghosh&hide=php&theme=default_repocard">
   <!--<img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=achyutghosh&hide=php&theme=default_repocard" />-->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achyutghosh&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achyutghosh&layout=compact" />
 </a>
 </div>
 
