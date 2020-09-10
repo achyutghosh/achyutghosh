@@ -37,11 +37,11 @@
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
 -->
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=achyutghosh&count_private=true&show_icons=true&theme=default">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=achyutghosh&count_private=true&show_icons=true&theme=default" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=achyutghosh&count_private=true&show_icons=true&theme=default_repocard">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=achyutghosh&count_private=true&show_icons=true&theme=default_repocard" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=achyutghosh&hide=php&theme=default">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=achyutghosh&hide=php&theme=default" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=achyutghosh&hide=php&theme=default_repocard">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=achyutghosh&hide=php&theme=default_repocard" />
 </a>
 </div>
 
