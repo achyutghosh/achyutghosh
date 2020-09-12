@@ -3,7 +3,7 @@
 <h4>:fire: Passionate programmer | 🚀 Experience in ERP software.</h4>
 <h3>💼 Software Developer at <a href="https://www.ginesys.in/">Ginni System Ltd - Ginesys</a></h3>
 
-## :envelope: Want to talk ?
+## :envelope: Let's talk
 [![Website Badge](https://img.shields.io/badge/Website-0A79DF?style=flat-square&logo=google-chrome&logoColor=white)](https://achyutghosh.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-achyutghosh06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achyutghosh06@gmail.com)](mailto:achyutghosh06@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achyutghosh24/)
