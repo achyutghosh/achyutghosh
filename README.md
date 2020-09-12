@@ -19,7 +19,7 @@
 </p>
 <br>
 
-## :thumbsup: Things I :heart: to experiment with
+## :heart: to play with
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html" width="45" height="45" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css" width="45" height="45" >
